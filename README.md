@@ -1,6 +1,5 @@
 # Foto
 
-## Description
-Beautiful photos with 500px
+###Beautiful photos with 500px
 
 500px Coding Challenge
